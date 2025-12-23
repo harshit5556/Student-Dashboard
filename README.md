@@ -1,3 +1,6 @@
+<img width="1347" height="684" alt="Screenshot 2025-12-23 115435" src="https://github.com/user-attachments/assets/7065e891-2a4a-41c7-99ab-7f883d0f81be" />
+<img width="1350" height="680" alt="Screenshot 2025-12-23 115405" src="https://github.com/user-attachments/assets/3a887137-0543-40b6-bbc4-cef987ece305" />
+<img width="1362" height="682" alt="Screenshot 2025-12-23 115346" src="https://github.com/user-attachments/assets/812fde4b-d495-41d2-aaad-dc44226ec72b" />
 # Dashboard Application
 
 A full-stack MERN (MongoDB, Express, React, Node.js) application for student and admin management with beautiful, modern UI/UX.
